@@ -1,0 +1,15 @@
+/* :root {
+    --background_page: #141414;
+}
+
+body[scheme="client_dark"] {
+    --background_page: #ebedf0;
+}
+
+body[scheme="client_light"] {
+    --background_page: #ebedf0;
+}
+
+.Panel__in {
+    background: var(--background_page);
+} */

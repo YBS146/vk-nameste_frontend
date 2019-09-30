@@ -1,0 +1,296 @@
+{
+	"accounting": {
+        "name": "Бухгалтерия"
+    },
+	"airport": {
+        "name": "Аэропорт"
+    },
+	"amusement_park": {
+        "name": "Парк развлечений"
+    },
+	"aquarium": {
+        "name": "Аквариум"
+    },
+	"art_gallery": {
+        "name": "Арт-галерея"
+    },
+	"atm": {
+        "name": "Банкомат"
+    },
+	"bakery": {
+        "name": "Пекарня"
+    },
+	"bank": {
+        "name": "Банк"
+    },
+	"bar": {
+        "name": "Бар"
+    },
+	"beauty_salon": {
+        "name": "Салон красоты"
+    },
+	"bicycle_store": {
+        "name": "Велосипеды"
+    },
+	"book_store": {
+        "name": "Книжный магазин"
+    },
+	"bowling_alley": {
+        "name": "Боулинг"
+    },
+	"bus_station": {
+        "name": "Автобусная остановка"
+    },
+	"cafe": {
+        "name": "Кафе"
+    },
+	"campground": {
+        "name": "Лагерь"
+    },
+	"car_dealer": {
+        "name": "Автосалон"
+    },
+	"car_rental": {
+        "name": "Прокат авто"
+    },
+	"car_repair": {
+        "name": "Автосервис"
+    },
+	"car_wash": {
+        "name": "Автомойка"
+    },
+	"casino": {
+        "name": "Казино"
+    },
+	"cemetery": {
+        "name": "Кладбище"
+    },
+	"church": {
+        "name": "Церковь"
+    },
+	"city_hall": {
+        "name": "Ратуша"
+    },
+	"clothing_store": {
+        "name": "Магазин одежды"
+    },
+	"convenience_store": {
+        "name": "Небольшой магазин"
+    },
+	"courthouse": {
+        "name": "Суд"
+    },
+	"dentist": {
+        "name": "Стоматолог"
+    },
+	"department_store": {
+        "name": "Универмаг"
+    },
+	"doctor": {
+        "name": "Врач"
+    },
+	"drugstore": {
+        "name": "Аптека"
+    },
+	"electrician": {
+        "name": "Электрика"
+    },
+	"electronics_store": {
+        "name": "Электроника"
+    },
+	"embassy": {
+        "name": "Посольство"
+    },
+	"fire_station": {
+        "name": "Пожарная станция"
+    },
+	"florist": {
+        "name": "Цветы"
+    },
+	"funeral_home": {
+        "name": "Похоронное бюро"
+    },
+	"furniture_store": {
+        "name": "Мебельный магазин"
+    },
+	"gas_station": {
+        "name": "Заправка"
+    },
+	"grocery_or_supermarket": {
+        "name": "Супермаркет"
+    },
+	"gym": {
+        "name": "Спортивный зал"
+    },
+	"hair_care": {
+        "name": "Парикмахерская"
+    },
+	"hardware_store": {
+        "name": "Склад"
+    },
+	"hindu_temple": {
+        "name": "Индуистский храм"
+    },
+	"home_goods_store": {
+        "name": "Всё для дома"
+    },
+	"hospital": {
+        "name": "Больница"
+    },
+	"insurance_agency": {
+        "name": "Страхование"
+    },
+	"jewelry_store": {
+        "name": "Ювелирный магазин"
+    },
+	"laundry": {
+        "name": "Прачечная"
+    },
+	"lawyer": {
+        "name": "Юрист"
+    },
+	"library": {
+        "name": "Библиотека"
+    },
+	"light_rail_station": {
+        "name": ""
+    },
+	"liquor_store": {
+        "name": "Винный магазин"
+    },
+	"local_government_office": {
+        "name": "Администрация"
+    },
+	"locksmith": {
+        "name": "Слесарь"
+    },
+	"lodging": {
+        "name": "Жильё"
+    },
+	"meal_delivery": {
+        "name": "Еда на заказ"
+    },
+	"meal_takeaway": {
+        "name": "Еда с собой"
+    },
+	"mosque": {
+        "name": "Мечеть"
+    },
+	"movie_rental": {
+        "name": ""
+    },
+	"movie_theater": {
+        "name": "Кинотеатр"
+    },
+	"moving_company": {
+        "name": ""
+    },
+	"museum": {
+        "name": "Музей"
+    },
+	"night_club": {
+        "name": "Ночной клуб"
+    },
+	"painter": {
+        "name": "Художник"
+    },
+	"park": {
+        "name": "Парк"
+    },
+	"parking": {
+        "name": "Парковка"
+    },
+	"pet_store": {
+        "name": "Зоомагазин"
+    },
+	"pharmacy": {
+        "name": "Аптека"
+    },
+	"physiotherapist": {
+        "name": "Физиотерапевт"
+    },
+	"plumber": {
+        "name": "Водопроводчик"
+    },
+    "point_of_interest": {
+        "name": "Интересное место"
+    },
+	"police": {
+        "name": "Полиция"
+    },
+	"post_office": {
+        "name": "Почта"
+    },
+	"primary_school": {
+        "name": "Начальная школа"
+    },
+	"real_estate_agency": {
+        "name": "Агенство недвижимости"
+    },
+	"restaurant": {
+        "name": "Ресторан"
+    },
+	"roofing_contractor": {
+        "name": ""
+    },
+	"rv_park": {
+        "name": ""
+    },
+	"school": {
+        "name": "Школа"
+    },
+	"secondary_school": {
+        "name": "Средняя школа"
+    },
+	"shoe_store": {
+        "name": "Магаин обуви"
+    },
+	"shopping_mall": {
+        "name": "Торговый центр"
+    },
+	"spa": {
+        "name": "Спа"
+    },
+	"stadium": {
+        "name": "Стадион"
+    },
+	"storage": {
+        "name": "Склад"
+    },
+	"store": {
+        "name": "Магазин"
+    },
+	"subway_station": {
+        "name": "Станция метро"
+    },
+	"supermarket": {
+        "name": "Супермаркет"
+    },
+	"synagogue": {
+        "name": "Синагога"
+    },
+	"taxi_stand": {
+        "name": "Таксопарк"
+    },
+	"tourist_attraction": {
+        "name": "Достопримечательность"
+    },
+	"train_station": {
+        "name": "Вокзал"
+    },
+	"transit_station": {
+        "name": ""
+    },
+	"travel_agency": {
+        "name": "Туристическое агенство"
+    },
+	"university": {
+        "name": "Университет"
+    },
+	"veterinary_care": {
+        "name": "Ветеринар"
+    },
+	"zoo": {
+        "name": "Зоопарк"
+    }
+}
